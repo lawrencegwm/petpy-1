@@ -11,4 +11,7 @@ def gardner(vp, alpha=310, beta=0.25):
 
 
 def impedance(vp, rho):
+    """
+    missing docstring
+    """
     return vp * rho
